@@ -25,27 +25,25 @@
 <p align="center">
 
 - **Languages**:
-    
-    Python
-    Java
-    C
+	Python,
+    	Java,
+    	C
 
 <br>   
     
 - **Front-End Development**:
 
-   JavaScript
-   Angular
+   	JavaScript,
+   	Angular
     
 <br>
 	
 - **Softwares and Tools**:
-	
-    Docker
-    Hibernate
-    Traefik
-    Keycloak
-    PgAdmin
+	Docker,
+    	Hibernate,
+    	Traefik,
+    	Keycloak,
+    	PgAdmin
 
 -----
 
@@ -66,7 +64,7 @@
 
 <li>
 <a href="inkedin.com/in/felix-weik-528a9b209/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin" alt=linkedin style="margin-bottom: 5px;"/>
+	LinkedIn
 </a>
 </li>
 
