@@ -54,7 +54,7 @@
 <ul>
 
 <li>
-<a href="inkedin.com/in/felix-weik-528a9b209/" target="_blank">
+<a href="[linkedin.com/in/felix-weik-528a9b209](https://www.linkedin.com/in/felix-weik-528a9b209/)" target="_blank">
 	LinkedIn
 </a>
 </li>
