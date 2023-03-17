@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center"><b>Hi , I'm Felix Weik </b></h1>
 
 <br>
