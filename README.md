@@ -31,7 +31,6 @@
 <br>   
     
 - **Front-End Development**:
-
    	JavaScript,
    	Angular
     
