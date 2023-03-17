@@ -32,7 +32,7 @@
     
 - **Front-End Development**:
    	JavaScript,
-   	Angular
+   	AngularJS
     
 <br>
 	
