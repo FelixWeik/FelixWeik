@@ -50,21 +50,3 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-
-<ul>
-
-<li>
-<a href="[linkedin.com/in/felix-weik-528a9b209](https://www.linkedin.com/in/felix-weik-528a9b209/)" target="_blank">
-	LinkedIn
-</a>
-</li>
-
-<br>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
