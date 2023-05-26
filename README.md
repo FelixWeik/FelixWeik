@@ -34,7 +34,7 @@
 - **Front-End Development**:
    	JavaScript,
 	Typescript,
-	HTML / CSS,  
+	HTML / CSS,
    	Angular
     
 <br>
