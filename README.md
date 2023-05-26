@@ -26,7 +26,7 @@
 - **Languages**:
 	Python,
     	Java,
-    	C,  
+    	C,
 	SQL
 
 <br>   
