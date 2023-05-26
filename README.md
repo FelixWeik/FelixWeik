@@ -10,9 +10,10 @@
 
 <br>
 
+- Computer Science (B.Sc.) Student at Karlsruhe Institute of Technology
+- Working-Student at Capgemini
 - Front and Backend Development
 - Currently learning Web Development
-- Working-Student at Capgemini
 
 <br>
 
