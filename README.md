@@ -25,20 +25,14 @@
 <p align="center">
 
 - **Languages**:
-	Python,
     	Java,
+  	Haskell,
     	C,
-	SQL
+  	Python,
+  	Go,
+  	TypeScript
 
-<br>   
-    
-- **Front-End Development**:
-   	JavaScript,
-	Typescript,
-	HTML / CSS,
-   	Angular
-    
-<br>
+<br>  
 	
 - **Softwares and Tools**:
 	Docker,
