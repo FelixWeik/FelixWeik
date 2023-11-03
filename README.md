@@ -13,7 +13,7 @@
 - Computer Science (B.Sc.) Student at Karlsruhe Institute of Technology
 - Former Working-Student at Capgemini
 - Front and Backend Development
-- Currently learning Web Development
+- Currently learning Functional Programming and Web Development
 
 <br>
 
