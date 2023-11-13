@@ -14,6 +14,7 @@
 - Front and Backend Development
 - Currently learning Functional Programming and Web Development
 - Former Student Intern at Capgemini
+- Very interested in Cyber Security
 
 <br>
 
