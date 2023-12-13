@@ -31,7 +31,8 @@
     	C,
   	Python,
   	Go,
-  	TypeScript
+  	TypeScript,
+  	Prolog
 
 <br>  
 	
