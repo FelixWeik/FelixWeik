@@ -11,10 +11,10 @@
 <br>
 
 - Computer Science (B.Sc.) Student at Karlsruhe Institute of Technology
+- Research Assistant at KASTEL
 - Front and Backend Development
-- Currently learning Functional Programming and Web Development
+- Functional Programming and Web Development
 - Former Student Intern at Capgemini
-- Very interested in Cyber Security
 
 <br>
 
@@ -29,8 +29,8 @@
     	Java,
   	Haskell,
     	C,
-  	Python,
   	Go,
+  	Python,
   	TypeScript,
   	Prolog
 
@@ -41,4 +41,5 @@
     	Hibernate,
     	Traefik,
     	Keycloak,
-    	PgAdmin
+    	PgAdmin,
+  	Postman
